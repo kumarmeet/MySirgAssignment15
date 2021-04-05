@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+void compare_string(char[], char[]);
+void count_vowels_string(char[]);
+void capitalize_string(char[]);
+void reverse_string_word_wise(char[]);
+
+int main()
+{
+    count_vowels_string("aeiou"));
+    return 0;
+}

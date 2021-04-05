@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1616859236 source:f:\mysirg online classes batch uv\mysirgassignment15\function.c
+	<string.h>
+
+1616852214 source:f:\mysirg online classes batch uv\mysirgassignment15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
